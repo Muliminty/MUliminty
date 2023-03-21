@@ -1,11 +1,4 @@
 # I'm Muliminty <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-
-
-
-
-
-
-
 <html>
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
